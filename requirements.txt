@@ -1,0 +1,7 @@
+streamlit
+geopy
+requests
+scikit-learn
+pandas
+folium
+streamlit-folium
